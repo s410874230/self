@@ -102,3 +102,13 @@ ul .active {
 ul .active:hover:before {
   opacity: 0;
 }
+
+.name{
+  color: var(--highlight);
+  font-size: 50px;
+  font-style: italic;
+}
+
+.title{
+  height:110px
+}
