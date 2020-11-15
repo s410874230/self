@@ -133,7 +133,6 @@ a{
 .ListSkill{
   display:-webkit-box;
   display:flex;
-  flex-wrap:wrap;
 }
 
 .ListSkill li{
