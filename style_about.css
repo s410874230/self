@@ -147,6 +147,7 @@ a{
   -webkit-box-align:center;
           align-items:center;
   text-align:center;
+  margin-right: 11px;
 }
 
 .circle{
