@@ -74,7 +74,7 @@ h4{
 .bigphoto{
   width: 120px;  
   border-radius:30px 30px 30px 30px ;
-  border:solid 5px var(--coolblue) ;
+  border:solid 6px var(--coolblue) ;
 }
 
 a{
