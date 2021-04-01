@@ -52,6 +52,15 @@ h4{
   opacity:0.8;
 }
 
+.engname{
+  font-size: 15px;
+  margin-top: -15px;
+}
+
+.intro{
+  margin-top: -10px;
+}
+
 a{
   color:white;
   text-decoration:none;
