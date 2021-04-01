@@ -61,6 +61,22 @@ h4{
   margin-top: -10px;
 }
 
+.photo{
+  width: 120px;
+  height: 180px;
+  position: absolute;
+  top: 90px;
+  left: 260px;
+  border-radius:30px 30px 30px 30px ;
+
+}
+
+.bigphoto{
+  width: 120px;  
+  border-radius:30px 30px 30px 30px ;
+  border:solid 5px var(--coolblue) ;
+}
+
 a{
   color:white;
   text-decoration:none;
